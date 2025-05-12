@@ -8,7 +8,7 @@ Este script activa un modo **Freecam Cinemático** en Roblox, permitiéndote exp
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Freecam-Rotation-and-Cinematic-Script/refs/heads/main/Freecam%20Cinematic%20by%20AlexScriptX.lua"))()
 ```
 
-## Freecam Rotaton
+## Freecam Rotation
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Freecam-Rotation-and-Cinematic-Script/refs/heads/main/Freecam%20Rotation%20by%20AlexScriptX.lua"))()
