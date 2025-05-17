@@ -1,6 +1,6 @@
-# 🎥 Freecam Cinematic/Rotation – Cámara Libre para Roblox
+# 🎥 Freecam Cinematic/Rotation – Free Camera for Roblox
 
-Este script activa un modo **Freecam Cinemático** en Roblox, permitiéndote explorar libremente el entorno con una cámara completamente controlable, sin mover al personaje del juego. Perfecto para crear cinemáticas, screenshots o simplemente disfrutar de una vista diferente del mundo del juego.
+This script enables a **Cinematic Freecam** mode in Roblox, allowing you to explore the environment freely with a fully controllable camera, without moving the in-game character. Perfect for creating cinematics, screenshots, or simply enjoying a different view of the game world.
 
 ## Freecam Cinematic
 
@@ -16,52 +16,52 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Freecam-R
 
 ---
 
-## ✨ Características
+## ✨ Features
 
-- 🎮 Control total de la cámara sin afectar al personaje.
-- 🖱️ Movimiento fluido del mouse para rotación libre.
-- 🔁 Inclinación de cámara para ángulos más cinematográficos.
-- 🧠 Alternancia rápida entre controles con teclas específicas.
-- 🧭 Ideal para grabaciones, inspección de mapas y creación de contenido.
-
----
-
-## 🎛️ Controles / Keybinds
-
-| Tecla | Función                                        |
-|:-----:|------------------------------------------------|
-| `C`   | 🎥 Activar / Desactivar el modo Freecam        |
-| `V`   | 🔓 Bloquear / Desbloquear el cursor            |
-| `W`   | ⬆️ Mover la cámara hacia adelante             |
-| `S`   | ⬇️ Mover la cámara hacia atrás                |
-| `A`   | ⬅️ Mover la cámara a la izquierda             |
-| `D`   | ➡️ Mover la cámara a la derecha               |
-| `E`   | ⬆️ Subir la cámara en el eje vertical         |
-| `Q`   | ⬇️ Bajar la cámara en el eje vertical         |
-| `Z`   | ↩️ Inclinar la cámara 10° a la izquierda       |
-| `X`   | ↪️ Inclinar la cámara 10° a la derecha         |
-| 🖱️     | 🎯 Rotar la cámara con el movimiento del mouse |
+- 🎮 Full camera control without affecting the character.
+- 🖱️ Smooth mouse movement for free rotation.
+- 🔁 Camera tilting for more cinematic angles.
+- 🧠 Quick toggling between controls with specific keys.
+- 🧭 Ideal for recordings, map inspection, and content creation.
 
 ---
 
-## 📎 Instrucciones
+## 🎛️ Controls / Keybinds
 
-1. Ejecuta el script en cualquier juego de Roblox.
-2. Presiona `C` para activar el modo **Freecam**.
-3. Usa el teclado y el mouse para mover y rotar la cámara como desees.
-4. Presiona `V` si deseas bloquear/desbloquear el cursor.
+| Key   | Function                                       |
+|:-----:|-----------------------------------------------|
+| `C`   | 🎥 Activate / Deactivate Freecam mode        |
+| `V`   | 🔓 Lock / Unlock the cursor                   |
+| `W`   | ⬆️ Move the camera forward                    |
+| `S`   | ⬇️ Move the camera backward                   |
+| `A`   | ⬅️ Move the camera left                       |
+| `D`   | ➡️ Move the camera right                      |
+| `E`   | ⬆️ Move the camera up vertically              |
+| `Q`   | ⬇️ Move the camera down vertically            |
+| `Z`   | ↩️ Tilt the camera 10° to the left            |
+| `X`   | ↪️ Tilt the camera 10° to the right           |
+| 🖱️     | 🎯 Rotate the camera with mouse movement      |
 
 ---
 
-## 📸 Usos recomendados
+## 📎 Instructions
 
-- Crear cinemáticas de juego o trailers.
-- Capturar capturas de pantalla profesionales.
-- Explorar mapas y estructuras desde cualquier ángulo.
+1. Run the script in any Roblox game.
+2. Press `C` to activate **Freecam** mode.
+3. Use the keyboard and mouse to move and rotate the camera as desired.
+4. Press `V` if you want to lock/unlock the cursor.
 
 ---
 
-## 🧑‍💻 Autor
+## 📸 Recommended Uses
 
-Script desarrollado por **AlexScriptX**  
-🎬 Diseñado para creadores de contenido y jugadores curiosos que buscan nuevas perspectivas.
+- Create in-game cinematics or trailers.
+- Capture professional-looking screenshots.
+- Explore maps and structures from any angle.
+
+---
+
+## 🧑‍💻 Author
+
+Script developed by **AlexScriptX**  
+🎬 Designed for content creators and curious players seeking new perspectives.
